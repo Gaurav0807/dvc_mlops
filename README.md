@@ -9,3 +9,4 @@ MLOPS DVC(Data Version Control)
 3.) now we do tell dvc to store data to "dvc remote add -d myremote experiment_data"
 4.) next "dvc add data/"
 5.) "dvc status"  and now "dvc commit" and then "dvc push"
+6.) Again change in code
